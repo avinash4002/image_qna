@@ -50,9 +50,4 @@ Hugging Face for the Spaces platform and the BLIP model.
 Gradio for providing an easy-to-use interface for machine learning models.
 
 
-### Key Points to Customize
-- **[Hugging Face Space - Image Question Answering](https://huggingface.co/spaces/your_username/your_space_name)**: Replace this URL with your actual Hugging Face Space URL.
-- **`app.py`**: Update this if your main script file has a different name.
-- **`LICENSE`**: If you have a specific license file or you need to add a license section, update this accordingly.
 
-This README should provide a clear overview of your project, how to run it locally, and how to acces
