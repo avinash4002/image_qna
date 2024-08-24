@@ -18,15 +18,14 @@ Install Dependencies
 
 Make sure you have Python 3.7 or higher installed. Install the required packages using requirements.txt:
 
-bash
-Copy code
+'''bash
 pip install -r requirements.txt
+
 Run the Application Locally
 
 To run the Gradio application locally, use the following command:
 
-bash
-Copy code
+'''bash
 python app.py
 This will start a local server, and you can interact with the model through your browser.
 
